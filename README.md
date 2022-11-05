@@ -1,6 +1,6 @@
 # Project Pipeline CICD Cloud Build + Terraform.
 
-1. Use git https://github.com/carlonicolo/terraform-gcp-proejct2/tree/main/terraform-exemplo2 for setting a trigger of Cloud Build.
+1. Use git https://github.com/carlonicolo/terraform-gcp-project2/tree/main/terraform-exemplo2 for setting a trigger of Cloud Build.
 
 2. Edit the script for finding the machine name for cloudbbuildterraform.
 
